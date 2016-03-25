@@ -1,5 +1,2 @@
-build/
-dist/
-nbproject/private/
-webrev
-.DS_Store
+build
+dist
