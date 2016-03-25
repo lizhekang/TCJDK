@@ -33,7 +33,7 @@ public class Version {
         "@@launcher_name@@";
 
     private static final String java_version =
-        "@@java_version@@";
+        "1.8.0_45-internal-dalex-version";//"@@java_version@@";
 
     private static final String java_runtime_name =
         "@@java_runtime_name@@";
